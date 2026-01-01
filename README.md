@@ -1,2 +1,12 @@
-# EM_GMN50_3D_Models
-3D CAD models for repairing the Ercole Marelli GMN50 circulator impeller, created with Autodesk Fusion 360. Models are designed for printing using SLS 1172Pro Nylon by JLC3DP
+### This repository contains 3D CAD models for repairing the **Ercole Marelli GMN50** circulator impeller, designed using **Autodesk Fusion 360**.
+
+**Prototype Material**: SLS 1172Pro Nylon by **JLC3DP**
+
+For more details on the material, refer to the [Material Datasheet](https://jlc3dp.com/help/article/Precimid-1172-Pro).
+
+**Available Formats**:
+- **.STEP** (for CAD software compatibility)
+- **.STL** (for 3D printing / CNC machining)
+- **.PNG** (rendered image)
+
+![3D Impeller Rendering](https://github.com/rickb3n/EM_GMN50_3D_Models/blob/main/Girante_GMN50_v2.png)
