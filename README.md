@@ -9,4 +9,6 @@ For more details on the material, refer to the [Material Datasheet](https://jlc3
 - **.STL** (for 3D printing / CNC machining)
 - **.PNG** (rendered image)
 
+[This Project on GrabCAD community library](https://grabcad.com/library/ercole-marelli-gmn50-pump-impeller-1)
+
 ![3D Impeller Rendering](https://github.com/rickb3n/EM_GMN50_3D_Models/blob/main/Girante_GMN50_v2.png)
